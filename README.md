@@ -1,36 +1,35 @@
-# OMNDOX
+# ARRGEN
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-OMNDOX-blue?logo=google-chrome)](https://omndox.run/)
-[![Twitter](https://img.shields.io/badge/Twitter-OMNDOX-blue?logo=twitter)](https://x.com/OMNDOXLAB)
+[![Website](https://img.shields.io/badge/Website-ARRGEN-blue?logo=google-chrome)](https://arrgen.fun/)
+[![Twitter](https://img.shields.io/badge/Twitter-ARRGEN-blue?logo=twitter)](https://x.com/ARRGENFUN)
 
-```
-  __  __ __ __  _ __   ____   __ 
- /__\|  V  |  \| | _\ /__\ \_/ / 
-| \/ | \_/ | | ' | v | \/ > , <  
- \__/|_| |_|_|\__|__/ \__/_/ \_\
-```
+ARRGEN — The On-chain Construct Language
 
+ARRGEN is not written — it’s constructed.
+It is the first protocol on Solana that treats human behavior as syntax,
+turning every on-chain action into a living piece of executable logic.
 
-OMNDOX transforms Pumpfun into a multidimensional map of behavior, emotion, and flow.
+In traditional programming, developers define rules with code.
+In ARRGEN, the crowd defines logic through action.
+Each buy, sell, or interaction becomes a statement —
+a fragment of language interpreted by the system’s generative core.
 
-Instead of viewing transactions as isolated events, it interprets every buy, sell, and creator action as a coordinate within an expanding on-chain space. 
+As these statements accumulate, ARRGEN begins to “speak.”
+It learns recurring patterns, forms conditional loops,
+and evolves its own logic tree based on collective behavior.
+The result is a continuously regenerating system —
+a living compiler built entirely from human decisions.
 
-Each address, token, and pulse becomes a node in a living network — a continuously updating structure that mirrors the market’s consciousness in real time.
+Every transaction becomes a line of meaning.
+Every market wave writes new grammar.
+ARRGEN is not just a protocol — it’s a language that grows, rewrites itself,
+and encodes the consciousness of its participants directly onto the chain.
 
-Built directly on Pumpfun, OMNDOX captures every interaction across the platform and assigns it a spatial signature. 
-
-These signatures form what we call the Market Awareness Field — a verifiable topology of influence, reaction, and sentiment. 
-
-Over time, the field evolves into a dynamic “awareness map” that visualizes how collective behavior flows through the ecosystem.
-
-In this system, the blockchain is no longer a flat ledger — it becomes a dimensional archive of motion and intent.
-
-Every coordinate tells a story: who acted, what moved, when it happened, and how it resonated.
-
-OMNDOX isn’t just data indexing; it’s a framework for seeing the invisible structure behind the meme economy — the geometry of belief, rhythm, and reaction that drives Pumpfun itself.
-
+There are no developers, no static rules — only syntax in motion.
+ARRGEN turns the blockchain into a linguistic organism,
+where behavior is code, and code becomes life.
