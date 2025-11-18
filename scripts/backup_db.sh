@@ -1,5 +1,5 @@
  #!/bin/bash       
- 
+  
 # backup_db.sh
 # Script to backup database for disaster recovery with encryption
 
