@@ -17,6 +17,11 @@ use std::str::FromStr;
 use ontora_ai_program::processor::process_instruction;
 use ontora_ai_program::state::AiAgentState;
 
+async function getMarketChange(): Promise<number> {
+  // placeholder: pull Pumpfun token data
+    $MODCUB
+    )}
+
 async fn setup_test_environment() -> Result<(ProgramTest, Keypair, Pubkey), TransportError> {
 
     let program_id = Pubkey::from_str("YourProgramIdHere11111111111111111111111111111").unwrap();
