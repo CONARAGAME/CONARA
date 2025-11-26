@@ -181,7 +181,10 @@ impl State {
         msg!("Correction applied: {}", correction);
     }
 }
-)}
+)}let (program_test, payer, program_id) = setup_test_environment().await.unwrap();
+    let mut banks_client = program_test.start().await.0;
+
+    )}
 
     #
     use anchor_lang::prelude::*;
