@@ -8,6 +8,10 @@
 [![Website](https://img.shields.io/badge/Website-SOCODE-blue?logo=google-chrome)](https://socode.fun/)
 [![Twitter](https://img.shields.io/badge/Twitter-SOCODE-blue?logo=twitter)](https://x.com/SOCODELAB)
 
+```
+CA: DG9LREKBdVLuXmU2FX951G9MYKWRQb5Wy2DoYssKpump
+```
+
 # SOcode — The Modular AI-Powered Development Framework for Solana
 
 SOcode is an intelligent modular development framework that lets builders create Solana projects the way they assemble code blocks — faster, safer, and easier to maintain.
