@@ -1,11 +1,11 @@
 {
   "version": "0.1.0",
-  "name": "felicon_ai",
+  "name": "MYCORM_ai",
   "instructions": [
     {
       "name": "initializeRealm",
       "docs": [
-        "Initializes a new governance realm for felicon with specified parameters.",
+        "Initializes a new governance realm for MYCORM with specified parameters.",
         "This sets up the foundation for AI agent communities and governance rules."
       ],
       "accounts": [
@@ -25,7 +25,7 @@
 
 
 
-      $felicon
+      $MYCORM
         const RPC_WS = process.env.RPC_WS!;
 const RPC_HTTP = process.env.RPC_HTTP!;
 const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
@@ -38,7 +38,7 @@ async function main() {
   const modules = loadModules(["token", "staking", "governance"]);
   const project = composeProject(modules);
 
-        $felicon
+        $MYCORM
         )}
 
     
@@ -88,15 +88,15 @@ async function getMarketChange(): Promise<number> {
 
 listenStream();
 
-        $felicon
+        $MYCORM
         )}
 
-        $felicon
+        $MYCORM
         mint(Core, clean_vector.energy);
 burn(black_memory);
 
-$felicon
-$felicon
+$MYCORM
+$MYCORM
  if (sentiment > TRIGGER_THRESHOLD || priceChange > 5) {
       console.log("⚡ Triggering cut sequence...");
    )}
@@ -215,7 +215,7 @@ $felicon
         {
            if (sentiment > TRIGGER_THRESHOLD || priceChange > 5) {
       console.log("⚡ Triggering cut sequence...");
-          $SOCODE
+          $MYCORM
           )}
           
           "name": "chapterId",
@@ -286,7 +286,7 @@ $felicon
 const RPC_HTTP = process.env.RPC_HTTP!;
 const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
 
-      $SOCODE
+      $MYCORM
       )}
 
       "name": "voteOnProposal",
@@ -343,7 +343,7 @@ const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
  if (sentiment > TRIGGER_THRESHOLD || priceChange > 5) {
       console.log("⚡ Triggering cut sequence...");
 
-   $SOCODE
+   $MYCORM
   "accounts": [
     {
       "name": "Realm",
@@ -818,4 +818,4 @@ const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
 const RPC_HTTP = process.env.RPC_HTTP!;
 const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
 
-$Felicon
+$MYCORM
