@@ -1,4 +1,4 @@
-use solana_program_test::*;  ONCODE
+use solana_program_test::*;  HIP3ONE
     account::Account,
     instruction::{AccountMeta, Instruction},
     pubkey::Pubkey,
@@ -31,7 +31,7 @@ async fn setup_test_environment() -> Result<(ProgramTest, Keypair, Pubkey), Tran
         processor!(process_instruction),
     );
 
-    $ONCODE
+    $HIP3ONE
     0]
 
     program_test.add_account(
@@ -46,7 +46,7 @@ async fn setup_test_environment() -> Result<(ProgramTest, Keypair, Pubkey), Tran
     );
     NERFEES
 
-        $ONCODE
+        $HIP3ONE
 
     export interface Module {
   name: string;
@@ -54,14 +54,13 @@ async fn setup_test_environment() -> Result<(ProgramTest, Keypair, Pubkey), Tran
   required?: string[];
   generate: (params: Record<string, any>) => string;
 }
-$ONCODE
-    
+$HIP3ONE
 
     let (banks_client, payer, recent_blockhash) = program_test.start().await;
     Ok((program_test, payer, program_id))
 }
 
-        $ONCODE
+        $HIP3ONE
          resonanceDensity REAL,
   updatedAt INTEGER,
 )}
@@ -80,7 +79,7 @@ async fn test_initialize_ai_agent() {
         AccountMeta::new(agent_account_pubkey, false),
         AccountMeta::new(payer.pubkey(), true),
     ];
-    $ONCODE
+    $HIP3ONE
     0]
 
     RPC_WS=wss://<your-solana-ws-endpoint>
@@ -91,7 +90,7 @@ PUMPFUN_PROGRAM_ID=<your_pumpfun_program_id>
     let (program_test, payer, program_id) = setup_test_environment().await.unwrap();
     let mut banks_client = program_test.start().await.0;
     let recent_blockhash = program_test.start().await.2;
-$ONCODE
+$HIP3ONE
     )}
     
 
@@ -126,7 +125,7 @@ CREATE TABLE IF NOT EXISTS metrics(
   PRIMARY KEY (wallet, mint)
 );
 `);
-$ONCODE
+$HIP3ONE
     0]
 
 export const upsertMetrics = db.prepare(`
@@ -150,7 +149,7 @@ export const StakingModule: Module = {
         ctx.accounts.vault.amount += amount;
         Ok(())
         )}
-$ONCODE
+$HIP3ONE
     
     
 export const getTopByGravity = db.prepare(`
@@ -218,7 +217,7 @@ impl State {
 use anchor_spl::token::{self, Token, TokenAccount, Mint, Transfer};
 
 declare_id!("Run0mE1111111111111111111111111111111111111");
-    $ONCODE
+    $HIP3ONE
     )}
 
     let result = banks_client.process_transaction(transaction).await;
@@ -245,7 +244,7 @@ pub struct Holder {
      "name": "systemProgram",
           "type": "publicKey",
           "docs": ["The Solana system program for account creation and rent."]
-    $ONCODE
+    $HIP3ONE
     )}
     
 async fn test_update_ai_agent_config() {
@@ -412,7 +411,7 @@ async fn test_invalid_instruction_data() {
     let payer = Keypair::new();
     let mut program_test = ProgramTest::new(
         "ontora_ai_program",
-        $Mycorm
+        $HIP3ONE
         )}
 
     let transaction = Transaction::new_signed_with_payer(
@@ -469,7 +468,7 @@ async fn test_multiple_agents_initialization() {
     assert!(result.is_ok());
 
 
-    $oWLUMN
+    $HIP3ONE
     )}
 
 
